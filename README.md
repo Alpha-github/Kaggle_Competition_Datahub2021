@@ -56,10 +56,10 @@ The final prediction on the Test data is stored in  `submission.csv`
 
 -  An easy to pick up programming language and fun to play with.
 
- [![pandas](https://miro.medium.com/max/481/1*cxfqR8NAj8HGal8CVOZ7hg.png)](https://pandas.pydata.org/) 
+ [![pandas](https://numfocus.org/wp-content/uploads/2016/07/pandas-logo-300.png)](https://pandas.pydata.org/) 
 -  Pandas is a fast, powerful, flexible and easy to use open source data analysis and manipulation tool, built on top of the Python programming language.
 
-[![tensorflow](https://blog.keras.io/img/keras-tensorflow-logo.jpg)](https://www.tensorflow.org/)
+[![tensorflow](https://idroot.us/wp-content/uploads/2019/03/TensorFlow-logo.png)](https://www.tensorflow.org/)
 -  Tensorflow Keras - The core open source library to help you develop and train ML models.
 
 [![sklearn](https://www.analyticsvidhya.com/wp-content/uploads/2015/01/scikit-learn-logo.png)](https://scikit-learn.org/stable/)
@@ -68,14 +68,14 @@ The final prediction on the Test data is stored in  `submission.csv`
 -  Accessible to everybody, and reusable in various contexts
 -  Built on NumPy, SciPy, and matplotlib
 
-[![matplotlib](https://miro.medium.com/max/1400/0*Q2P7piuSxFQIq60Z.jpg)](https://matplotlib.org/)
+[![matplotlib](https://matplotlib.org/2.1.2/_images/sphx_glr_logos2_thumb.png)](https://matplotlib.org/)
 
 -  Matplotlib is a plotting library for the Python programming language and its numerical mathematics extension NumPy.
-#
-[![Numpy](https://miro.medium.com/max/765/1*cyXCE-JcBelTyrK-58w6_Q.png)](https://numpy.org/)
+
+[![Numpy](https://png.pngitem.com/pimgs/s/465-4651848_numpy-python-logo-hd-png-download.png)](https://numpy.org/)
 
 -  NumPy is a library for the Python programming language, adding support for large, multi-dimensional arrays and matrices, along with a large collection of high-level mathematical functions to operate on these arrays.
-#
+
 ### Support Libraries: 
  - #### Logging :
  - - Python has a built-in module logging which allows writing status messages to a file or any other output streams.
@@ -85,9 +85,7 @@ The final prediction on the Test data is stored in  `submission.csv`
 
 ## Setup
 ##### This project was built using Windows 10 
-
-#
-#
+&nbsp;
 #### Install [Tensorflow] using pip
 System requirements :-
 > Python 3.6–3.9
