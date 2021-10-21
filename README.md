@@ -120,10 +120,10 @@ pip install seaborn
  To download python, Click on the thumbnail below to be redirected to Python Downloads page
 
 [![Python](https://www.cupaya.com/wp-content/uploads/2017/09/python-logo.png)](https://www.python.org/downloads/)
-#
+
 
 ## License
-#
+
 #### Public
 
 
