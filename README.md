@@ -24,6 +24,11 @@ The evaluation metric for this competition is Categorization Accuracy - the perc
 ```sh
 >_ kaggle competitions download -c datahub-2021
 ```
+>OR
+> Use Git to clone this repository 
+```sh
+$ git clone https://github.com/Alpha-github/Kaggle_Competition_Datahub2021.git
+```
 | Files | Description |
 | --------| --------|
 | `train.csv` | The training set|
@@ -41,13 +46,12 @@ The evaluation metric for this competition is Categorization Accuracy - the perc
 The program involves preprocessing of data using pandas and building a predictive categorical model.
 
 As accuracy is the key, 3 models have been built; Two models using Sci-kitLearn, GaussianNB and DecisionTreeClassifier, and the last one using Tensorflow Keras Deep Learning model. The model which gives the highest accuracy will be opted.
-
-**Important:** Beware to not overfit your model, else it won't perform well on the test dataset.
+Replace `PATH_TO_TRAIN_CSV` and `PATH_TO_TEST_CSV` with the path of your train.csv and test.csv files.
 
 Feel free to play with the Deep Learning Model by tweeking hyperparameters, number of layers, Optimization and Loss functions, etc.
 
+**Important:** Beware to not overfit your model, else it won't perform well on the test dataset.
 The final prediction on the Test data is stored in  `submission.csv`
-
 **NOTE:** As training Neural Networks is hardware intensive, its better to run the model using Google Colab.
 
 ## Technology
