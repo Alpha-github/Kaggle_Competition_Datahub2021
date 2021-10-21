@@ -61,8 +61,7 @@ The final prediction on the Test data is stored in  `submission.csv`
 
 [![tensorflow](https://blog.keras.io/img/keras-tensorflow-logo.jpg)](https://www.tensorflow.org/)
 -  Tensorflow Keras - The core open source library to help you develop and train ML models.
-#
-#
+
 [![sklearn](https://www.analyticsvidhya.com/wp-content/uploads/2015/01/scikit-learn-logo.png)](https://scikit-learn.org/stable/)
 
 -  Simple and efficient tools for predictive data analysis
@@ -73,8 +72,7 @@ The final prediction on the Test data is stored in  `submission.csv`
 
 -  Matplotlib is a plotting library for the Python programming language and its numerical mathematics extension NumPy.
 #
-#
-[![Numpy](https://user-images.githubusercontent.com/1217238/65354639-dd928f80-dba4-11e9-833b-bc3e8c6a737d.png)](https://numpy.org/)
+[![Numpy](https://miro.medium.com/max/765/1*cyXCE-JcBelTyrK-58w6_Q.png)](https://numpy.org/)
 
 -  NumPy is a library for the Python programming language, adding support for large, multi-dimensional arrays and matrices, along with a large collection of high-level mathematical functions to operate on these arrays.
 #
@@ -93,8 +91,8 @@ The final prediction on the Test data is stored in  `submission.csv`
 #### Install [Tensorflow] using pip
 System requirements :-
 > Python 3.6–3.9
-Python 3.9 support requires TensorFlow 2.5 or later.
-Python 3.8 support requires TensorFlow 2.2 or later.
+> Python 3.9 support requires TensorFlow 2.5 or later.
+> Python 3.8 support requires TensorFlow 2.2 or later.
 #
 **Important:** For more information regarding proper installation and Setting up GPU. [Click here] 
 ```sh
